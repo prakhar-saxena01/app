@@ -6,7 +6,7 @@ Yes, it is made with Electron.
 
 # Installation
 1. Go to the [Releases Tab](https://github.com/touka-bot/app/releases)
-2. Select the Package which fits your Operating System
+2. Download the Package which fits your Operating System
 3. Un-Zip the Archive
 4. Start the Executable.
 5. Profit
