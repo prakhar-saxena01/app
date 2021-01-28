@@ -11,7 +11,8 @@
   "author": "angelsflyinhell",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^11.2.1"
+    "electron": "^11.2.1",
+    "electron-packager": "^15.2.0"
   },
   "dependencies": {
     "electron-open-url": "^1.6.0"

@@ -114,3 +114,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+ToukaApp-win32-x64/
+ToukaApp-linux-x64/
