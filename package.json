@@ -1,0 +1,19 @@
+{
+  "name": "fluidv2app",
+  "version": "1.0.0",
+  "description": "Light-weight App to watch anime.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron main.js"
+  },
+  "keywords": [],
+  "author": "angelsflyinhell",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^11.2.1"
+  },
+  "dependencies": {
+    "electron-open-url": "^1.6.0"
+  }
+}
