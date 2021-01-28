@@ -2,7 +2,7 @@
  Light-weight app to watch anime on your Desktop easily.
 
 # FAQ
-Yes, it is build with Electron.
+Yes, it is made with Electron.
 
 # Installation
 1. Go to the [Releases Tab](https://github.com/touka-bot/app/releases)
