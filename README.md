@@ -11,6 +11,13 @@ Yes, it is made with Electron.
 4. Start the Executable.
 5. Profit
 
+# Build it yourself
+NOTE: This requires NodeJS & NPM.
+
+1. Clone the Project
+2. Open a Terminal and run `npm i`
+3. Run `npm start`
+
 # Issues and Contribution
 If you have any Issues, please let me know [here]().
 
